@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/simple-inventory-management-system/src/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simple-inventory-management-system/src/lib/mysql-connector-java-8.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simple-inventory-management-system/src/lib/swingx-all-1.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

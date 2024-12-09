@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="html2pdf1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/simple-inventory-management-system/src/lib/html2pdf/svg-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simple-inventory-management-system/src/lib/html2pdf/forms-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simple-inventory-management-system/src/lib/html2pdf/bcprov-jdk15on-1.64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simple-inventory-management-system/src/lib/html2pdf/styled-xml-parser-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simple-inventory-management-system/src/lib/html2pdf/io-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simple-inventory-management-system/src/lib/html2pdf/slf4j-api-1.7.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simple-inventory-management-system/src/lib/html2pdf/html2pdf-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simple-inventory-management-system/src/lib/html2pdf/bcpkix-jdk15on-1.64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simple-inventory-management-system/src/lib/html2pdf/kernel-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/simple-inventory-management-system/src/lib/html2pdf/layout-7.1.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

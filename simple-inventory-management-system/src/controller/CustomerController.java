@@ -15,10 +15,7 @@ import javax.swing.JOptionPane;
 import model.Customer;
 import model.DB;
 
-/**
- *
- * @author sandakelum
- */
+
 public class CustomerController {
 
     Customer customer;

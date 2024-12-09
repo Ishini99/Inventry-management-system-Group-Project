@@ -5,10 +5,7 @@
  */
 package model;
 
-/**
- *
- * @author sandakelum
- */
+
 public class User {
     public String userName;
     public String password;

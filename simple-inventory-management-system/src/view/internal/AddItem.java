@@ -12,10 +12,7 @@ import javax.swing.JButton;
 import javax.swing.JTextField;
 import model.Item;
 
-/**
- *
- * @author sandakelum
- */
+
 public class AddItem extends javax.swing.JInternalFrame {
 
     /**

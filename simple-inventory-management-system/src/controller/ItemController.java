@@ -15,10 +15,6 @@ import javax.swing.JOptionPane;
 import model.DB;
 import model.Item;
 
-/**
- *
- * @author sandakelum
- */
 public class ItemController {
 
     Item item;

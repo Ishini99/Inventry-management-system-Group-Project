@@ -5,10 +5,7 @@
  */
 package model;
 
-/**
- *
- * @author sandakelum
- */
+
 public class Item {
     public String itemCode;
     public String itemName;

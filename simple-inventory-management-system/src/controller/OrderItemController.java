@@ -16,10 +16,7 @@ import model.OrderItem;
 
 
 
-/**
- *
- * @author sandakelum
- */
+
 public class OrderItemController {
 
     Tools tools;

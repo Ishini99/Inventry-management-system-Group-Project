@@ -5,10 +5,7 @@
  */
 package view.internal;
 
-/**
- *
- * @author sandakelum
- */
+
 public class ViewInvoice extends javax.swing.JInternalFrame {
 
     /**

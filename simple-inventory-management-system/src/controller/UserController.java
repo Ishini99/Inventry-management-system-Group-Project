@@ -11,10 +11,7 @@ import java.sql.Statement;
 import model.DB;
 import model.User;
 
-/**
- *
- * @author sandakelum
- */
+
 public class UserController {
 
     User user;

@@ -5,10 +5,7 @@
  */
 package model;
 
-/**
- *
- * @author sandakelum
- */
+
 public class Customer {
 
     public int id;

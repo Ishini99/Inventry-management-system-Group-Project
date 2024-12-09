@@ -11,10 +11,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 import model.User;
 
-/**
- *
- * @author sandakelum
- */
+
 public class Login extends javax.swing.JFrame {
 
     /**

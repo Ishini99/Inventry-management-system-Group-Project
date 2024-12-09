@@ -5,10 +5,7 @@
  */
 package model;
 
-/**
- *
- * @author sandakelum
- */
+
 public class Order {
 
     public String randId;    

@@ -14,10 +14,7 @@ import javax.swing.JOptionPane;
 import model.DB;
 import model.Order;
 
-/**
- *
- * @author sandakelum
- */
+
 public class OrderController {
 
     Tools tools;

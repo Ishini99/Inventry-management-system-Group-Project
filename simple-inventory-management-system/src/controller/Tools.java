@@ -8,10 +8,7 @@ package controller;
 import java.awt.Window;
 import java.util.Random;
 
-/**
- *
- * @author sandakelum
- */
+
 public class Tools {
 
     public Window getVisibleContent() {

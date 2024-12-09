@@ -5,10 +5,7 @@
  */
 package model;
 
-/**
- *
- * @author sandakelum
- */
+
 public class OrderItem {
     public int id;
     public String itemCode;

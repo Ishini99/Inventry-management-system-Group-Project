@@ -15,10 +15,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import view.HtmlReport;
 
-/**
- *
- * @author sandakelum
- */
+
 public class GenerateOrderReport extends javax.swing.JInternalFrame {
 
     /**

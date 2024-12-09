@@ -8,10 +8,7 @@ package model;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-/**
- *
- * @author sandakelum
- */
+
 public class DB {
     public static Connection createConnetion() throws Exception{
        String url = "jdbc:mysql://localhost/eadcw2";

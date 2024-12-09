@@ -11,10 +11,7 @@ import javax.swing.JButton;
 import javax.swing.JTextField;
 import model.Customer;
 
-/**
- *
- * @author sandakelum
- */
+
 public class AddCustomer extends javax.swing.JInternalFrame {
 
     /**

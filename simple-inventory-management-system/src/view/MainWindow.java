@@ -27,10 +27,7 @@ import view.internal.GenerateOrderReport;
 import view.internal.ViewCustomer;
 import view.internal.ViewOrder;
 
-/**
- *
- * @author sandakelum
- */
+
 public class MainWindow extends javax.swing.JFrame {
 
     /**

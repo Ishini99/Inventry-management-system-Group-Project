@@ -9,10 +9,7 @@ import controller.ExportPdf;
 import java.io.File;
 import javax.swing.JFileChooser;
 
-/**
- *
- * @author sandakelum
- */
+
 public class HtmlReport extends javax.swing.JDialog {
 
     /**

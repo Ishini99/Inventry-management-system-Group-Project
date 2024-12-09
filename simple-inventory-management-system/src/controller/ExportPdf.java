@@ -18,10 +18,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author sandakelum
- */
+
 public class ExportPdf extends Thread {
 
     private String file;

@@ -5,10 +5,7 @@
  */
 package view.internal;
 
-/**
- *
- * @author sandakelum
- */
+
 public class About extends javax.swing.JInternalFrame {
 
     /**

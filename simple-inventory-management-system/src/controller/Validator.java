@@ -12,10 +12,7 @@ import java.util.regex.Pattern;
 import javax.swing.JButton;
 import javax.swing.JTextField;
 
-/**
- *
- * @author sandakelum
- */
+
 public class Validator {
 
     public void disableSubmit(JButton btns[]) {

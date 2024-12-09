@@ -15,10 +15,7 @@ import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 import model.Item;
 
-/**
- *
- * @author sandakelum
- */
+
 public class ViewItem extends javax.swing.JInternalFrame {
 
     /**

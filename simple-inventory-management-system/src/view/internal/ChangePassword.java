@@ -9,10 +9,7 @@ import controller.Tools;
 import controller.UserController;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author sandakelum
- */
+
 public class ChangePassword extends javax.swing.JInternalFrame {
 
     /**

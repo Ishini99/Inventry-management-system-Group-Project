@@ -16,10 +16,7 @@ import java.util.Vector;
 import javax.swing.table.DefaultTableModel;
 import view.HtmlReport;
 
-/**
- *
- * @author sandakelum
- */
+
 public class ViewOrder extends javax.swing.JInternalFrame {
 
     /**

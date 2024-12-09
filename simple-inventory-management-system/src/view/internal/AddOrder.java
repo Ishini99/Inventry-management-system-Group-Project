@@ -28,10 +28,7 @@ import model.Order;
 import model.OrderItem;
 import org.jdesktop.swingx.autocomplete.AutoCompleteDecorator;
 
-/**
- *
- * @author sandakelum
- */
+
 public class AddOrder extends javax.swing.JInternalFrame {
 
     ArrayList<Customer> customers;

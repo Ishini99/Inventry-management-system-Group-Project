@@ -14,10 +14,7 @@ import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 import model.Customer;
 
-/**
- *
- * @author sandakelum
- */
+
 public class ViewCustomer extends javax.swing.JInternalFrame {
 
     /**
