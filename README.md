@@ -1,2 +1,2 @@
-# GYM-Management-System
+#Inventry-management-System
  
